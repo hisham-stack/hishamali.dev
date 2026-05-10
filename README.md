@@ -4,7 +4,7 @@ Personal portfolio — Hisham Ali, Full-Stack Developer based in Lund, Sweden.
 
 ## Stack
 
-Next.js 15 · TypeScript · Tailwind CSS · Vercel
+Next.js 16 · TypeScript · Tailwind CSS · Vercel
 
 ## Development
 

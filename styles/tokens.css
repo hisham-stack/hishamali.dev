@@ -1,0 +1,12 @@
+:root {
+  --background: #fafafa;
+  --surface: #ffffff;
+  --foreground: #0a0a0a;
+  --muted-foreground: #52525b;
+  --subtle-foreground: #a1a1aa;
+  --border: #e4e4e7;
+  --border-strong: #d4d4d8;
+  --focus-ring: #0a0a0a;
+  --selection-bg: #0a0a0a;
+  --selection-fg: #fafafa;
+}

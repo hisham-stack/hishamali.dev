@@ -48,6 +48,7 @@ The design prototype in `docs/design/prototype/` (Portfolio.html + components.js
 
 Full PRD is in `docs/prd.md` — read it before implementing any page or component.
 Key sections:
+
 - §8 — design tokens (colours, typography, spacing)
 - §7 — page specifications
 - §10 — technical architecture
